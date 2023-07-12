@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-rodaine-table (1.1.0-1-0deepin1) unstable; urgency=medium
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Chang Yang <yangchang@deepin.org>  Wed, 12 Jul 2023 10:39:35 +0800
